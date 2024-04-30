@@ -1,0 +1,1 @@
+essa foi uma atividade onde deviamos entrar com classes com métodos para realizar soma, subtração, divisão e multiplicação de números inteiros, reais e racionais.
